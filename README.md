@@ -21,9 +21,9 @@ Soy un ingeniero de software con más de 5 años de experiencia en desarrollo fu
 </p>
 
 ## Contacto
-
+  <h3 align="center">👋 +57 3014548087 📱👨🏻‍💻</h3>
 <a href="https://wa.link/jsn94z" target="blank">
-    <img align="center" src="https://github.com/Jesus123780/Jesus123780/assets/53837840/9b8fe1b9-e06a-4016-b71d-bda9942461c8" alt="Canal de Twitter de midudev" height="23px" width="28px" />
+    <img align="center" src="https://github.com/Jesus123780/Jesus123780/assets/53837840/9b8fe1b9-e06a-4016-b71d-bda9942461c8" alt="Canal de Twitter de midudev" height="33px" width="48px" />
 </a>
 
 ## Proyectos Destacados
