@@ -1,7 +1,7 @@
 # ¡Hey, soy [Jesus Juvinao]! 👋
 
 ## *Sobre mí*
-``` <img width="105" alt="image" src="https://github.com/Jesus123780/Jesus123780/assets/53837840/3e39f575-8a21-4b23-9183-cd46f0493564">```
+``` <img width="105" alt="image" src="https://github.com/Jesus123780/Jesus123780/assets/53837840/3e39f575-8a21-4b23-9183-cd46f0493564">
 
 Soy un ingeniero de software con experiencia en desarrollo fullstack +5 años,  utilizando tecnologías como JavaScript, TypeScript, React, Node.js, Next.js, MongoDB, SQL, React Native, Angular, Astro y aplicando principios sólidos y atomic design. Mi enfoque es entregar código limpio, escalable y mantenible.
 
