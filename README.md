@@ -20,13 +20,12 @@
 Soy un ingeniero de software con más de 5 años de experiencia en desarrollo fullstack, utilizando tecnologías como JavaScript, TypeScript, React, Node.js, Next.js, MongoDB, SQL, React Native, Angular, Astro, y aplicando principios sólidos y atomic design. Mi enfoque es entregar código limpio, escalable y mantenible.
 </p>
 
-<h2>
-  Contacto
-</h2>
+## Contacto
 
 <a href="https://wa.link/jsn94z" target="blank">
     <img align="center" src="https://github.com/Jesus123780/Jesus123780/assets/53837840/9b8fe1b9-e06a-4016-b71d-bda9942461c8" alt="Canal de Twitter de midudev" height="23px" width="28px" />
 </a>
+
 ## Proyectos Destacados
 
 - [Proyecto 1](https://eatsy-client.vercel.app/): Clon de IFOOD CLIENT
