@@ -17,7 +17,7 @@
 
 ## Sobre mí
 <p align="center">
-Soy un ingeniero de software con más de 5 años de experiencia en desarrollo fullstack, utilizando tecnologías como JavaScript, TypeScript, React, Node.js, Next.js, MongoDB, SQL, React Native, Angular, Astro, y aplicando principios sólidos y atomic design. Mi enfoque es entregar código limpio, escalable y mantenible.
+Ingeniero de software con más de 5 años de experiencia en desarrollo fullstack, utilizando tecnologías como JavaScript, TypeScript, React, Node.js, Next.js, MongoDB, SQL, React Native, Angular, Astro, y aplicando principios sólidos y atomic design. Mi enfoque es entregar código limpio, escalable y mantenible.
 </p>
 
 ## Contacto
