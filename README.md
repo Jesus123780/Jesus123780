@@ -1,13 +1,13 @@
 
 <p align="center">
-  <img width="105" alt="imagen de perfil" src="https://github.com/Jesus123780/Jesus123780/assets/53837840/3e39f575-8a21-4b23-9183-cd46f0493564">
+  <img width="105" alt="imagen de perfil" src="https://github.com/user-attachments/assets/b041e6b7-f516-4273-a9c7-7290b62784d0">
   <h3 align="center">👋 ¡Hey, soy [Jesus Juvinao]! 👨🏻‍💻</h3>
 </p>
 
 <p align="center">
   <span style="width: 8px;"> </span>
   <a href="https://www.linkedin.com/in/jesus-david-juvinao-perez-8a9352174/" target="blank">
-    <img align="center" src="![image](https://github.com/user-attachments/assets/b041e6b7-f516-4273-a9c7-7290b62784d0)" alt="" height="23px" width="23px" />
+    <img align="center" src="https://github.com/user-attachments/assets/69f000cb-0ed7-4298-8a32-ecbe65aa4fb5" alt="" height="23px" width="23px" />
   </a>
   <span style="width: 8px;"> </span>
   <a href="https://medium.com/@juvinaojesusd" target="blank">
