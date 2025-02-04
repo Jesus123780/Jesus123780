@@ -7,7 +7,7 @@
 <p align="center">
   <span style="width: 8px;"> </span>
   <a href="https://www.linkedin.com/in/jesus-david-juvinao-perez-8a9352174/" target="blank">
-    <img align="center" src="https://github.com/Jesus123780/Jesus123780/assets/53837840/e1494d7d-5e9c-4e1f-9001-7597a800de7d" alt="" height="23px" width="23px" />
+    <img align="center" src="![image](https://github.com/user-attachments/assets/b041e6b7-f516-4273-a9c7-7290b62784d0)" alt="" height="23px" width="23px" />
   </a>
   <span style="width: 8px;"> </span>
   <a href="https://medium.com/@juvinaojesusd" target="blank">
